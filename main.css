@@ -1,0 +1,11 @@
+img {
+	margin: 50px;
+	
+}
+
+.big { transition: all .5s ease-in-out; 
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+.big:hover{transform: scale(1.5);}
